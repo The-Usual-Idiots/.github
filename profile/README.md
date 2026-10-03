@@ -45,6 +45,13 @@ We are a team of four students from SIES, working together as peers and co-build
 
 Although this organization began with our major project, it represents more than a single academic requirement. It is our shared space to experiment, create, and build a foundation for future ideas.
 
+### Project Leads
+
+| Name | Role | GitHub |
+| --- | --- | --- |
+| [Saivel Konar](https://github.com/konarsaivel-pixel) | Main Author | [@konarsaivel-pixel](https://github.com/konarsaivel-pixel) |
+| [Tanishq Mudaliar](https://github.com/tanishqmudaliar) | Co-Author | [@tanishqmudaliar](https://github.com/tanishqmudaliar) |
+
 ## 📌 Our Projects
 
 Our repositories contain the projects, experiments, and resources we create along the way. Explore our work to see what we are learning, what we are building, and how our ideas evolve over time.
