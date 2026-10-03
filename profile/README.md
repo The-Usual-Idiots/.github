@@ -77,4 +77,4 @@ Whether you are here to explore our work, learn from our experiments, or collabo
 
 ---
 
-*Built with curiosity, teamwork, and a little bit of chaos by the team at The Usual Idiots.*
+*Built with curiosity, teamwork, and a little bit of chaos by the four of us at The Usual Idiots.*
