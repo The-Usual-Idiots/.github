@@ -41,16 +41,9 @@ We keep our work collaborative and practical:
 
 ## 👥 Our Team
 
-We are a team of four students from SIES, working together as peers and co-builders. Each member brings different interests, perspectives, and strengths to the group, allowing us to approach problems from multiple angles.
+We are four students from SIES who enjoy learning, building, and figuring things out together. We may each see problems differently, but that is what makes our conversations, ideas, and projects more interesting.
 
-Although this organization began with our major project, it represents more than a single academic requirement. It is our shared space to experiment, create, and build a foundation for future ideas.
-
-### Project Leads
-
-| Name | Role | GitHub |
-| --- | --- | --- |
-| [Saivel Konar](https://github.com/konarsaivel-pixel) | Main Author | [@konarsaivel-pixel](https://github.com/konarsaivel-pixel) |
-| [Tanishq Mudaliar](https://github.com/tanishqmudaliar) | Co-Author | [@tanishqmudaliar](https://github.com/tanishqmudaliar) |
+The Usual Idiots started as a major project group, but it has grown into a place where we can freely explore ideas, try new things, and turn rough concepts into something real. We are here to learn from one another, enjoy the process, and keep improving with every project.
 
 ## 📌 Our Projects
 
