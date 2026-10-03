@@ -30,6 +30,12 @@ We work across different areas of technology depending on the problem we are try
 
 Our projects are driven by learning and impact. Some may begin as ideas for our major project, while others grow from questions, experiments, or technologies we want to understand better.
 
+## 💡 Why We Build
+
+Every project gives us a chance to ask better questions and learn something new. We build because we enjoy the process of taking an idea from a conversation, through a few unexpected problems, and into something that actually works.
+
+For us, progress is not only about the final result. It is also about the late-night discussions, the small breakthroughs, and the lessons we carry into whatever we build next.
+
 ## 🛠️ Our Approach
 
 We keep our work collaborative and practical:
